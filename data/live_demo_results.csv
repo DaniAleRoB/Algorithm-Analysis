@@ -1,0 +1,9 @@
+algorithm,time_ms,comparisons,swaps
+Bubble Sort,0.0276,30,19
+Insertion Sort,0.0108,25,19
+Selection Sort,0.008,36,7
+Merge Sort,0.0271,21,29
+Quick Sort,0.0141,18,19
+Heap Sort,0.0165,29,21
+Shell Sort,0.2554,25,17
+Tim Sort,0.0037,,

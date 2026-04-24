@@ -1,0 +1,168 @@
+{
+  "input": [
+    9,
+    3,
+    5,
+    1,
+    8,
+    2,
+    7,
+    4,
+    6
+  ],
+  "consensus_sorted": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "plain": {
+    "Bubble Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0276
+    },
+    "Insertion Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0108
+    },
+    "Selection Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.008
+    },
+    "Merge Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0271
+    },
+    "Quick Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0141
+    },
+    "Heap Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0165
+    },
+    "Shell Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.2554
+    },
+    "Tim Sort": {
+      "sorted": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "time_ms": 0.0037
+    }
+  },
+  "instrumented": {
+    "Bubble Sort": {
+      "comparisons": 30,
+      "swaps": 19
+    },
+    "Insertion Sort": {
+      "comparisons": 25,
+      "swaps": 19
+    },
+    "Selection Sort": {
+      "comparisons": 36,
+      "swaps": 7
+    },
+    "Merge Sort": {
+      "comparisons": 21,
+      "swaps": 29
+    },
+    "Quick Sort": {
+      "comparisons": 18,
+      "swaps": 19
+    },
+    "Heap Sort": {
+      "comparisons": 29,
+      "swaps": 21
+    },
+    "Shell Sort": {
+      "comparisons": 25,
+      "swaps": 17
+    }
+  }
+}
