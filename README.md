@@ -84,9 +84,9 @@ jupyter notebook analysis.ipynb
 
 Note: python benchmark.py is kept as a compatibility wrapper for benchmark_scenarios.py.
 
-## How To Test In Real Time (Oral Defense)
+## How To Test In Real Time
 
-Use the live script with a custom array provided by the professor:
+Use the live script with a custom array provided:
 
 ```bash
 python live_demo.py --arr "9,3,5,1,8,2,7,4,6" --save
