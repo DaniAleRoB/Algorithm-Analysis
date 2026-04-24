@@ -18,7 +18,7 @@ It includes 8 algorithms:
 - Shell Sort
 - Tim Sort
 
-The project also supports live oral-defense validation where a custom array is provided in real time and analyzed immediately.
+The project also supports live validation where a custom array is provided in real time and analyzed immediately.
 
 ## Repository Structure
 
